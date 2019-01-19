@@ -13,6 +13,11 @@
 (Download e abertura do projeto no Android Studio)
 
 ## TERCEIRA PARTE (STT)
+```
+
+    <uses-permission android:name="android.Manifest.permission.RECORD_AUDIO"/>
+```
+
 
 * Falar.java
     
